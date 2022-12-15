@@ -30,6 +30,27 @@ public class CardDisplay : MonoBehaviour
         difficultyText.text = card.difficulty;
 
         tagText.text = card.tags[0];
+
+
+        switch(card.difficulty.ToLower())
+        {
+            case "easy":
+                difficultyText.color = new Color32(1, 170, 1, 255);
+                break;
+            case "moderate":
+                difficultyText.color = new Color32(231, 152, 0, 255);
+                break;
+            case "hard":
+                difficultyText.color = new Color32(202, 0, 0, 255);
+                break;
+        }
+
     }
+
+    public void setCard(RecipeCard recipe){
+        card = recipe;
+    }
+
+
 
 }
