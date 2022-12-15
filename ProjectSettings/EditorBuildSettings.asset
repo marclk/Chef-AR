@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/NRSDK/Demos/RGBCamera-Capture.unity
+    guid: e0b534db44fbb1a48b5410630bbcd749
   m_configObjects: {}
