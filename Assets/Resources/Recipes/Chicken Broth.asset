@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5661cb82d6d6a634b8a36c08f6ec1f58, type: 3}
-  m_Name: RecipeCard
+  m_Name: Chicken Broth
   m_EditorClassIdentifier: 
   name: Chicken Broth
   description: Chicken Broth with spices.
@@ -18,7 +18,7 @@ MonoBehaviour:
   prepTime: 5
   cookTime: 20
   difficulty: Easy
-  steps: 
-  ingredients: 
+  steps: []
+  ingredients: []
   tags:
   - Soup

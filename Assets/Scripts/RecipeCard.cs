@@ -16,8 +16,8 @@ public class RecipeCard : ScriptableObject {
 
     public string difficulty;
     
-    public int[] steps;
-    public int[] ingredients;
+    public string[] steps;
+    public string[] ingredients;
 
     public string[] tags;
 }
