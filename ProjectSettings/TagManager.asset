@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DetailCanvas
+  - DCChicken
+  - RecipeCard
+  - CategoryItem
+  - unselectedCatItem
+  - selectedCatItem
   layers:
   - Default
   - TransparentFX
