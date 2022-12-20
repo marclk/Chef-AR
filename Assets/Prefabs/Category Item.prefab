@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8871173271110343638}
   m_Layer: 5
   m_Name: Unselected
-  m_TagString: Untagged
+  m_TagString: unselectedCatItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -138,6 +138,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   catItem: {fileID: 0}
+  catItems: []
+  isSelected: 0
 --- !u!1 &3133160558389185877
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,7 +423,7 @@ GameObject:
   - component: {fileID: 282920339956023693}
   m_Layer: 5
   m_Name: Selected
-  m_TagString: Untagged
+  m_TagString: selectedCatItem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

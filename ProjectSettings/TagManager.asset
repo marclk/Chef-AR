@@ -8,6 +8,8 @@ TagManager:
   - DCChicken
   - RecipeCard
   - CategoryItem
+  - unselectedCatItem
+  - selectedCatItem
   layers:
   - Default
   - TransparentFX

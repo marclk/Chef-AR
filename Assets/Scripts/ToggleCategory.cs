@@ -7,8 +7,9 @@ public class ToggleCategory : MonoBehaviour
 {
 
     public CategoryItem catItem;
-
     public CategoryItem[] catItems;
+
+    public GameObject parent;
 
     public bool isSelected;
 
@@ -16,13 +17,15 @@ public class ToggleCategory : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Toggle toggle =  GetComponent<Toggle>();
+        // initCategory();
 
-        isSelected = false;
+        // Toggle toggle =  GetComponent<Toggle>();
 
-        catItem = this.transform.parent.GetComponent<CategoryItemDisplay>().item;
+        // parent = this.transform.parent;
+
+        // catItem = parent.GetComponent<CategoryItemDisplay>().item;
         
-        toggle.onValueChanged.AddListener(delegate {onCategoryToggle();});
+        // toggle.onValueChanged.AddListener(delegate {onCategoryToggle();});
     }
 
     // Update is called once per frame
@@ -31,13 +34,24 @@ public class ToggleCategory : MonoBehaviour
         
     }
 
+    public void initCategory()
+    {
+        isSelected = false;
+        
+    }
+
     public void onCategoryToggle()
     {
-        if(!isSelected){        // if Not Selected
-            isSelected = true;
-        }else{                  // if Selected
-            isSelected = false;         
-        }
+        // if(!isSelected){        // if Not Selected, set to selected
+        //     isSelected = true;
+        //     parent.FindWithTag("selectedCatItem").setActive(true);
+        //     parent.FindWithTag("unselectedCatItem").setActive(false);
+
+        // }else{                  // if Selected, set to unselected
+        //     isSelected = false;         
+        //     parent.FindWithTag("selectedCatItem").setActive(false);
+        //     parent.FindWithTag("unselectedCatItem").setActive(true);
+        // }
     }
 }
 
