@@ -9,16 +9,21 @@ public class ToggleDetailView : MonoBehaviour
     public GameObject detailCanvas;
 
     // Start is called before the first frame update
+    void Awake()
+    {
+        detailCanvas = GameObject.FindWithTag("DCChicken");
+    }
+    
     void Start()
     {
         Toggle toggle =  GetComponent<Toggle>();
-        
-        detailCanvas = GameObject.FindWithTag("DetailCanvas");
 
-        toggle.onValueChanged.AddListener(delegate {Foo();});
+        ToggleDetail();
+
+        toggle.onValueChanged.AddListener(delegate {ToggleDetail();});
     }
 
-    public void Foo()
+    public void ToggleDetail()
     {
         if(!detailCanvas.activeSelf){   // if detailCanvas is not active
             detailCanvas.SetActive(true);
