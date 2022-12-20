@@ -469,6 +469,7 @@ MonoBehaviour:
   timeText: {fileID: 5244280430808643196}
   difficultyText: {fileID: 5244280430336729707}
   tagText: {fileID: 5244280431372691434}
+  tagColor: {fileID: 5244280431663286064}
 --- !u!1 &5244280430605390721
 GameObject:
   m_ObjectHideFlags: 0

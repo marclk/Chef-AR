@@ -19,6 +19,8 @@ public class CardDisplay : MonoBehaviour
 
     public TMP_Text tagText;
 
+    public Image tagColor;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,7 +31,9 @@ public class CardDisplay : MonoBehaviour
         timeText.text = (card.prepTime + card.cookTime).ToString() + " min";
         difficultyText.text = card.difficulty;
 
-        tagText.text = card.tags[0];
+        tagText.text = card.tags[0].name;
+
+        tagColor.color = card.tags[0].color;
 
 
         switch(card.difficulty.ToLower())

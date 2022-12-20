@@ -19,5 +19,5 @@ public class RecipeCard : ScriptableObject {
     public string[] steps;
     public string[] ingredients;
 
-    public string[] tags;
+    public CategoryItem[] tags;
 }

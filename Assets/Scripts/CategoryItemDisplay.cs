@@ -11,16 +11,19 @@ public class CategoryItemDisplay : MonoBehaviour
     public CategoryItem item;
 
     public TMP_Text nameText;
+    public TMP_Text nameTextSelected;
 
-    public Color color;
+    public Image tagImageColor;
+    public Image tagImageColorSelected;
 
     // Start is called before the first frame update
     void Start()
     {
         nameText.text = item.name;
+        nameTextSelected.text = item.name;
 
-        color = item.color;
-        
+        tagImageColor.color = item.color;
+        tagImageColorSelected.color = item.color;
     }
 
     // Update is called once per frame

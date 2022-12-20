@@ -18,7 +18,7 @@ MonoBehaviour:
   prepTime: 10
   cookTime: 20
   difficulty: Hard
-  steps: 01000000030000000500000006000000
-  ingredients: 
+  steps: []
+  ingredients: []
   tags:
-  - Vegetarian
+  - {fileID: 11400000, guid: dfe6913f4a7b6e649aa1c7bbd7e174eb, type: 2}
