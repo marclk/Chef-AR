@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5661cb82d6d6a634b8a36c08f6ec1f58, type: 3}
+  m_Name: Broodje Kaas
+  m_EditorClassIdentifier: 
+  name: Broodje Gezond met Kaas
+  description: 'Een heerlijk broodje gezond met Kaas, ham, sla & mayonaise '
+  coverImage: {fileID: 21300000, guid: b26e6ff10fc8aec46881fe09f28d4478, type: 3}
+  prepTime: 5
+  cookTime: 2
+  difficulty: Easy
+  steps:
+  - Was de komkommer en tomaat en snijd ze in plakjes van 0.5 cm
+  - Snijd het pistolet horizontaal in het midden en besmeer met mayonaise
+  - Pak 2 blaadjes sla en verspreid over de onderkant van de pistolet.
+  - Leg vervolgens 2 plakken kaas verspreid over de sla, en vervolgens 2 plakken
+    achterham op de kaas.
+  - Als laatste, plaats 4 plakjes tomaat verspreid over het broodje en plaats 4 plakjes
+    komkommer tussen de plakjes tomaat.
+  - "Bon App\xE9tit!"
+  ingredients:
+  - Witte/Bruine Pistolet
+  - Jong Belegen Kaas
+  - Achterham
+  - Komkommer
+  - Tomaat
+  - Ijsbergsla
+  - Mayonaise
+  tags:
+  - {fileID: 11400000, guid: f0d2599fb1fbf2c4494dc9f6fa700700, type: 2}
