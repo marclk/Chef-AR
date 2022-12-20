@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/NRSDK/Demos/RGBCamera-Capture.unity
-    guid: e0b534db44fbb1a48b5410630bbcd749
+    path: Assets/Scenes/WorldSpaceUI.unity
+    guid: a220d447d407ce7478e0a273b09bdfc6
   m_configObjects: {}
