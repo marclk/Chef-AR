@@ -11,7 +11,7 @@ public class ToggleDetailView : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        detailCanvas = GameObject.FindWithTag("DCChicken");
+        detailCanvas = GameObject.FindWithTag("DetailCanvas");
     }
     
     void Start()
