@@ -23,7 +23,8 @@ public class CardDisplay : MonoBehaviour
 
     // Start is called before the first frame update
     void Start()
-    {
+    {   
+        // link card values to textfields
         nameText.text = card.name;
 
         coverImage.sprite = card.coverImage;
@@ -35,7 +36,7 @@ public class CardDisplay : MonoBehaviour
 
         tagColor.color = card.tags[0].color;
 
-
+        //Dynamic difficulty colors
         switch(card.difficulty.ToLower())
         {
             case "easy":
@@ -51,6 +52,7 @@ public class CardDisplay : MonoBehaviour
 
     }
 
+    //Dynamically Link RecipeCard from resources folder to card
     public void setCard(RecipeCard recipe){
         card = recipe;
     }

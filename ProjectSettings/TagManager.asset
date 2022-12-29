@@ -9,6 +9,9 @@ TagManager:
   - RecipeCard
   - CategoryItem
   - StepCanvas
+  - unselectedCatItem
+  - selectedCatItem
+  - RecipeDetail
   layers:
   - Default
   - TransparentFX
