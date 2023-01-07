@@ -7,6 +7,6 @@ using UnityEngine;
 public class IngredientObject : ScriptableObject {
     public new string name;
 
-    public Sprite icon;
+    public Texture icon;
 } 
 

@@ -68,15 +68,12 @@ public class DetailDisplay : MonoBehaviour
 					// iterate through the steps, and instantiate them in stepsContainer
 					GameObject ingredient = Instantiate(ingredientPrefab, ingredientsContainer);
 					var ingredientText = ingredient.transform.GetChild(0);
-
+					
 					ingredientText.GetComponent<TMP_Text>().text = stepObj.ingredients[x].name;
 
-				}
-				
+				}		
 			}
-		}
-
-		
+		}		
 	}
 
 	public static void DestroyChildren(Transform parent){

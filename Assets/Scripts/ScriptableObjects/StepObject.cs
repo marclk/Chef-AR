@@ -8,7 +8,7 @@ public class StepObject : ScriptableObject {
 
     public string description;
 
-    public Sprite stepVideo;
+    public Texture stepVideo;
 
     public IngredientObject[] ingredients; 
 
