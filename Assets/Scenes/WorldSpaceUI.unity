@@ -6913,9 +6913,10 @@ MonoBehaviour:
   ingredientPrefab: {fileID: 4101083403460495352, guid: f3e88870067107f41bc53b807a4fafc7, type: 3}
   stepContainer: {fileID: 1516011052}
   stepPrefab: {fileID: 2470149338510974279, guid: 44d48ff9fbd417a479a669e9db6f2a58, type: 3}
-  progBarItemContainer: {fileID: 1059799246}
-  progBarItemPrefab: {fileID: 8671668760440157162, guid: 9f4eafd203f1b7d4e827db27dad85df9, type: 3}
-  scrollView: {fileID: 1784140816}
+  toggleContainer: {fileID: 1059799246}
+  toggleGroup: {fileID: 1059799247}
+  togglePrefab: {fileID: 8671668760440157160, guid: 9f4eafd203f1b7d4e827db27dad85df9, type: 3}
+  scrollSnap: {fileID: 1784140816}
 --- !u!114 &903875320
 MonoBehaviour:
   m_ObjectHideFlags: 0
