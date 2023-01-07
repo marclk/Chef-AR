@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-
- [CreateAssetMenu(fileName = "RecipeCard", menuName = "Chef AR/RecipeCard", order = 0)]
+[CreateAssetMenu(fileName = "Recipe", menuName = "Chef AR/Recipe", order = 0)]
 public class RecipeCard : ScriptableObject {
     public new string name;
     public string description;
@@ -16,8 +15,7 @@ public class RecipeCard : ScriptableObject {
 
     public string difficulty;
     
-    public string[] steps;
-    public string[] ingredients;
+    public StepObject[] steps;
 
     public CategoryItem[] tags;
 }

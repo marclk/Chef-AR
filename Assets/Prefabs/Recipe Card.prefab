@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 0}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_HighlightedColor: {r: 0, g: 0, b: 0, a: 0.8}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f863b14842840e44eb6141093f76fcfd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  detailCanvas: {fileID: 0}
+  recipeDetailView: {fileID: 0}
 --- !u!1 &5244280430018832465
 GameObject:
   m_ObjectHideFlags: 0
@@ -171,10 +171,10 @@ RectTransform:
   m_Father: {fileID: 5244280430378618982}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.99998474, y: -37.271194}
-  m_SizeDelta: {x: -110.000015, y: -85.5313}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -80.999985, y: -37.271194}
+  m_SizeDelta: {x: 89.999985, y: 14.468697}
   m_Pivot: {x: 0.1, y: 0.5}
 --- !u!222 &5244280430018832466
 CanvasRenderer:

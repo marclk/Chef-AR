@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class RecipeDetail : MonoBehaviour
+public class ClickStepByStep : MonoBehaviour
 {
-    public GameObject recipeDetailView;
+   public GameObject recipeStepView;
     
-    // Awale is called before Start()
+    // Awake is called before Start()
     void Awake()
     {
-        recipeDetailView = GameObject.FindWithTag("RecipeDetail");
+        recipeStepView = GameObject.FindWithTag("RecipeStepByStep");
     }
     
     // Start is called before the first frame update
@@ -23,9 +23,8 @@ public class RecipeDetail : MonoBehaviour
 
     public void OnButtonClick()
     {
-        RecipeCard card = this.transform.parent.GetComponent<CardDisplay>().card;
-
-        recipeDetailView.GetComponent<DetailDisplay>().setCard(card);
+        RecipeCard card = this.transform.parent.GetComponent<DetailDisplay>().card;
+        recipeStepView.GetComponent<StepByStepDisplay>().setCard(card);
         
     }
 }

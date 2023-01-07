@@ -19,21 +19,11 @@ MonoBehaviour:
   cookTime: 2
   difficulty: Easy
   steps:
-  - Was de komkommer en tomaat en snijd ze in plakjes van 0.5 cm
-  - Snijd het pistolet horizontaal in het midden en besmeer met mayonaise
-  - Pak 2 blaadjes sla en verspreid over de onderkant van de pistolet.
-  - Leg vervolgens 2 plakken kaas verspreid over de sla, en vervolgens 2 plakken
-    achterham op de kaas.
-  - Als laatste, plaats 4 plakjes tomaat verspreid over het broodje en plaats 4 plakjes
-    komkommer tussen de plakjes tomaat.
-  - "Bon App\xE9tit!"
-  ingredients:
-  - Witte/Bruine Pistolet
-  - Jong Belegen Kaas
-  - Achterham
-  - Komkommer
-  - Tomaat
-  - Ijsbergsla
-  - Mayonaise
+  - {fileID: 11400000, guid: 6c4c18c8d7baf55489264f9cc6eeddb8, type: 2}
+  - {fileID: 11400000, guid: e6ee160547dfcdd49986d7eced08099a, type: 2}
+  - {fileID: 11400000, guid: b5e89aa66ce027440b4abc85facdfd71, type: 2}
+  - {fileID: 11400000, guid: 01d56854ad1b39a4594384909fd1f895, type: 2}
+  - {fileID: 11400000, guid: fe0035dbff911684d9754eaa723a4093, type: 2}
+  - {fileID: 11400000, guid: 647e6acb9d6a71040a942b0806d38b61, type: 2}
   tags:
   - {fileID: 11400000, guid: f0d2599fb1fbf2c4494dc9f6fa700700, type: 2}

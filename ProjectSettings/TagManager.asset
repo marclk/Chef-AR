@@ -12,6 +12,7 @@ TagManager:
   - unselectedCatItem
   - selectedCatItem
   - RecipeDetail
+  - RecipeStepByStep
   layers:
   - Default
   - TransparentFX

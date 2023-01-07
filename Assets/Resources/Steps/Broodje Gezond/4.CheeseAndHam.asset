@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2363f8158b1c0394e95336569fd05a1e, type: 3}
+  m_Name: 4.CheeseAndHam
+  m_EditorClassIdentifier: 
+  title: Cheese and Ham
+  description: Place 2 slices of Cheese & 2 slices of Ham over the Salad
+  stepVideo: {fileID: 0}
+  ingredients:
+  - {fileID: 11400000, guid: 2598353ceb72ef542ac5733bf742ea75, type: 2}
+  - {fileID: 11400000, guid: 447b065ee74c5f14f83b8c3051899835, type: 2}
+  amountPerIngredient:
+  - 2 slices
+  - 2 slices
