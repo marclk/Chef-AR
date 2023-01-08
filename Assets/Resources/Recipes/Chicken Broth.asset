@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5661cb82d6d6a634b8a36c08f6ec1f58, type: 3}
   m_Name: Chicken Broth
   m_EditorClassIdentifier: 
-  name: Chicken Broth
+  name: Chicken Veggies
   description: Chicken Broth with spices.
-  coverImage: {fileID: 21300000, guid: 408e8068a3cc1ee45abcda94b72541a5, type: 3}
+  coverImage: {fileID: 21300000, guid: ddedcaf4fdd10824099002b2246703c0, type: 3}
   prepTime: 5
   cookTime: 20
   difficulty: Easy
