@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 using TMPro;
 using System;
 
@@ -9,6 +10,8 @@ public class DetailDisplay : MonoBehaviour
 {
 
 	public RecipeCard card;
+
+	private RecipeCard prevCard;
 
 	public TMP_Text nameText;
 	public TMP_Text descriptionText;
@@ -26,15 +29,25 @@ public class DetailDisplay : MonoBehaviour
 	public Transform stepsContainer;
 	public GameObject stepPrefab;
 
-	// Start is called before the first frame update
+	public bool isActive;
+
+	// Awake is called before Start()
+	void Awake()
+	{
+		
+	}
+
 	void Start()
 	{
-		updateDetail();
+		isActive = false;
+		gameObject.SetActive(false);
 	}
 
 	public void setCard(RecipeCard recipe){
+
 		card = recipe;
 		updateDetail();
+
 	}
 
 	public void updateDetail(){
@@ -74,6 +87,35 @@ public class DetailDisplay : MonoBehaviour
 				}		
 			}
 		}		
+	}
+
+	//Change the current isActive State to the opposite state
+	public void onToggleView(){
+			if(!isActive){
+				isActive = true;
+				gameObject.SetActive(true);
+
+			}else{
+				
+				isActive = false;
+				gameObject.SetActive(false);
+
+			}
+		
+	}
+
+	public void openView(){
+		if(!isActive){
+			isActive = true;
+			gameObject.SetActive(isActive);
+		}
+	}
+
+	public void closeView(){
+		Debug.Log("?????????????????");
+		isActive = false;
+		gameObject.SetActive(isActive);
+		
 	}
 
 	public static void DestroyChildren(Transform parent){

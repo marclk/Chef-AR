@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 using TMPro;
 using System;
 using DanielLochner.Assets.SimpleScrollSnap;
@@ -27,16 +28,20 @@ public class StepByStepDisplay : MonoBehaviour
 
     private float toggleWidth;
 
+    private bool isActive;
+
     // Awake is called before Start()
     void Awake()
     {
-        toggleWidth = (togglePrefab.transform as RectTransform).sizeDelta.x * (Screen.width / 2048f); ;
+        toggleWidth = (togglePrefab.transform as RectTransform).sizeDelta.x * (Screen.width / 2048f);
+        
     }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        isActive = false;
+        gameObject.transform.localScale = new Vector3(0, 0, 0);
     }
 
     public void setCard(RecipeCard recipe){
@@ -45,14 +50,32 @@ public class StepByStepDisplay : MonoBehaviour
     }
 
     public void updateStepView(){
-        // set main display and detail display off
 
         DestroyChildren(stepContainer);
 
         for (int i = 0; i < card.steps.Length; i++){
-            AddToBack(card.steps[i], i);
+            AddToFront(card.steps[i], i);
         }
 
+        scrollSnap.GoToPanel(scrollSnap.NumberOfPanels-1);
+    }
+
+    public void onToggleView(){
+        if(!isActive){
+            isActive = true;
+
+            gameObject.transform.localScale = new Vector3(1,1,1);
+
+            mainDisplay.gameObject.SetActive(!isActive);
+            detailDisplay.gameObject.SetActive(!isActive);
+        }else{
+            isActive = false;
+
+            gameObject.transform.localScale = new Vector3(0,0,0);
+
+            mainDisplay.gameObject.SetActive(!isActive);
+            detailDisplay.gameObject.SetActive(!isActive);
+        }
     }
 
     // Remove Existing children from passed parent
@@ -68,7 +91,7 @@ public class StepByStepDisplay : MonoBehaviour
     }
 
     public void AddToFront(StepObject step, int num){
-        Add(0, step, num);
+        Add(0, step, 0);
     }
 
     public void Add(int index, StepObject step, int num)
@@ -85,7 +108,7 @@ public class StepByStepDisplay : MonoBehaviour
             var stepVideo           = stepContent.transform.GetChild(1);
             var stepDescription     = stepContent.transform.GetChild(3);
 
-            stepTitle.GetComponent<TMP_Text>().text         = "Step " + (num+1); // veranderen naar 'Step X'
+            stepTitle.GetComponent<TMP_Text>().text         = "Step " + (scrollSnap.NumberOfPanels+1); // veranderen naar 'Step X'
             stepVideo.GetComponent<RawImage>().texture      = step.stepVideo;
             stepDescription.GetComponent<TMP_Text>().text   = step.description;
 
@@ -116,7 +139,9 @@ public class StepByStepDisplay : MonoBehaviour
                 scrollSnap.Pagination.transform.position += new Vector3(toggleWidth / 2f, 0, 0);
 
                 // Panel
-                scrollSnap.Remove(index);
+                Debug.Log("INDEX: " + index);
+                Debug.Log("NumberOfPanels: " + scrollSnap.NumberOfPanels);
+                scrollSnap.Remove(index);  
             }
         }
 }

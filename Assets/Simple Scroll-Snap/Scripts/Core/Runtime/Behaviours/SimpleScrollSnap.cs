@@ -729,8 +729,9 @@ namespace DanielLochner.Assets.SimpleScrollSnap
                 Debug.LogError("<b>[SimpleScrollSnap]</b> \"Automatic Layout\" must be enabled for content to be dynamically removed during runtime.");
                 return;
             }
-
+            
             DestroyImmediate(Panels[index].gameObject);
+            
 
             if (ValidConfig)
             {

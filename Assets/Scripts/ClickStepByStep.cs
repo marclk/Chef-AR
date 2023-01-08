@@ -24,6 +24,7 @@ public class ClickStepByStep : MonoBehaviour
     public void OnButtonClick()
     {
         RecipeCard card = this.transform.parent.parent.GetComponent<DetailDisplay>().card;
+        recipeStepView.GetComponent<StepByStepDisplay>().onToggleView();
         recipeStepView.GetComponent<StepByStepDisplay>().setCard(card);
         
     }

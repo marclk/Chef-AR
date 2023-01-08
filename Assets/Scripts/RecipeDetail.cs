@@ -23,8 +23,9 @@ public class RecipeDetail : MonoBehaviour
 
     public void OnButtonClick()
     {
-        RecipeCard card = this.transform.parent.GetComponent<CardDisplay>().card;
 
+        RecipeCard card = this.transform.parent.GetComponent<CardDisplay>().card;
+        recipeDetailView.GetComponent<DetailDisplay>().openView();
         recipeDetailView.GetComponent<DetailDisplay>().setCard(card);
         
     }

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: JongBelegenKaas
   m_EditorClassIdentifier: 
   name: Matured Cheese
-  icon: {fileID: 0}
+  icon: {fileID: 2800000, guid: 902323d06f4bc5a428fecc182c6610ca, type: 3}
