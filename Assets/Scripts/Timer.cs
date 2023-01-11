@@ -4,17 +4,23 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using System.Diagnostics;
 
 public class Timer : MonoBehaviour
 {
     public float TimeLeft;
     public bool TimerOn = false;
 
+    public float deleteTimerTimeLeft = 5;
+
     public TextMeshProUGUI TimerTxt;
+    public AudioSource audioSource;
+    public GameObject gameObject;
     
     // Start is called before the first frame update
     void Start()
     {
+        audioSource.Stop();
         TimerOn = true;
     }
 
@@ -25,12 +31,22 @@ public class Timer : MonoBehaviour
         {
             TimeLeft -= Time.deltaTime;
             updateTimer(TimeLeft);
+            if (TimeLeft <= 0)
+            {
+                UnityEngine.Debug.Log("0");
+                TimerOn = false;
+                audioSource.Play();
+            }
         }
         else
         {
-            Debug.Log("Time is UP!");
+            UnityEngine.Debug.Log("Time is UP!");
             TimeLeft = 0;
-            TimerOn = false;
+            deleteTimerTimeLeft -= Time.deltaTime;
+            if (deleteTimerTimeLeft <= 0)
+            {
+                Destroy(gameObject);
+            }
         }
     }
 
