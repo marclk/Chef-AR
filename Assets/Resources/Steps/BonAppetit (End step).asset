@@ -16,4 +16,5 @@ MonoBehaviour:
   description: "Bon App\xE8tit!"
   stepVideo: {fileID: 0}
   ingredients: []
-  amountPerIngredientGrams: []
+  amountPerIngredient: []
+  animationClip: {fileID: 7400000, guid: 4cae5394fd8c60040aca476928d0dad3, type: 2}

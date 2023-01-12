@@ -19,3 +19,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 789b7b01cac159c4092051953fdd70ba, type: 2}
   amountPerIngredient:
   - 2 leaves
+  animationClip: {fileID: 7400000, guid: d6a0740df43d60d4eb9f0f4c3366029a, type: 2}
