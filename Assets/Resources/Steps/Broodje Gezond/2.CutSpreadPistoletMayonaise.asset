@@ -22,3 +22,4 @@ MonoBehaviour:
   amountPerIngredient:
   - 1 pistolet
   - 2 spoons
+  animationClip: {fileID: 7400000, guid: 951faad2ec2181643b7529a643b303a6, type: 2}

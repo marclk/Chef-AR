@@ -14,4 +14,6 @@ public class StepObject : ScriptableObject {
 
     public string[] amountPerIngredient;
 
+    public AnimationClip animationClip;
+
 }

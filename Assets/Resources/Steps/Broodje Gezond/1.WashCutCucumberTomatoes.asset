@@ -22,3 +22,4 @@ MonoBehaviour:
   amountPerIngredient:
   - 4 slices
   - 4 slices
+  animationClip: {fileID: 7400000, guid: d285da115dbb0174ebec3851c4d21184, type: 2}
