@@ -1,0 +1,5317 @@
+fileFormatVersion: 2
+guid: 99cd8beb81816844fa8c0fcef11dee73
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15548
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1719bc9041d84a8df78f39eba745c
+      internalID: 1553276423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 15548
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445dfd7cd8993f44bb489231f5e4005
+      internalID: 1158106570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 15548
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfbd7da2da9467459311c3ead8e10ad
+      internalID: 954045946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 15548
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfc1dbe452b08042981e4b5b3278537
+      internalID: -282980172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 15548
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba63da8c306c784093cb83c56fe5a7f
+      internalID: -235325377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15210
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882fd45b23059e47be96353af39a325
+      internalID: 763190884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 15210
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21249ec389a19d446aadeb2d68d1f350
+      internalID: 1165591034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 15210
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2a49da05002548a0624f3f1958ae4
+      internalID: 529603075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 15210
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa11b3e9fd11cd84e8a4e03e3a272a43
+      internalID: 1423895624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 15210
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec13986810914941a943e32ab252d02
+      internalID: -876918689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14872
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324fc23aa324df4f92e654e88f05fce
+      internalID: 1465223197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 14872
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b649d5fd338f55f4dafd3379465c89e9
+      internalID: -349580183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 14872
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed8719b02f6c547a71eac8c6679bb0
+      internalID: -1427302444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 14872
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311a3b2f5212b894abce997d946bdc38
+      internalID: 1935691545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 14872
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b426396f708114ba215122769fafa2
+      internalID: -1884452660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14534
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cd3b88519f1f6439f3c65e74ecf66e
+      internalID: -1214626647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 14534
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291cc7e37260134f9b306734bc62e9f
+      internalID: -1507163822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 14534
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b73ab7d9712e8b46b3d301ad5333b4b
+      internalID: -1647791491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 14534
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3752e2b9c98fe344bbd20fb03eac540
+      internalID: 662265598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 14534
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ec435e6838074a85612a6e2c7a9de
+      internalID: 1876971236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14196
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb6d7e669331f344bbce9f834adaa1b
+      internalID: 1590851016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 14196
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a27766e3fef5a4dab818b97c1e4492
+      internalID: -1609192202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 14196
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2467df2e4cef874c84baececf8b6cc1
+      internalID: 1292235890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 14196
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721370664fc14e459a022701aaaf58d
+      internalID: 600520429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 14196
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e82533fa6d5efe4d8586eb7e07273d7
+      internalID: -642789164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13858
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d58b778187b444bf744172a8f6eb4
+      internalID: 913938916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 13858
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2537748971a57244eace122f154ff237
+      internalID: 1771374362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 13858
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4e4b8ea24aac4eb99a46004b9cc34
+      internalID: -623561958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 13858
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691735fab279c62428174851ca40a68b
+      internalID: -1312095557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 13858
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1446c6d1266484096a793502b578ba
+      internalID: -186354550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13520
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3174bfa4d70212a419a089dc0de37f82
+      internalID: 2064365735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 13520
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a05810074c7164d88eb9d4771ca16f
+      internalID: -771309665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 13520
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a1793adbfac6408951f213e9f577a
+      internalID: 881769607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 13520
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e80795248d94a64ea073b744fb907f0
+      internalID: -216283074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 13520
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d68d36d554bd4cb7d8653a5160e63
+      internalID: -2129472007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13182
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c58c14d88f0c74fb69fc1f9b305fb0
+      internalID: 712330155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 13182
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0a0e18a373e04db501fd570be8333
+      internalID: -2142251389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 13182
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be16823d0f5a5842a7a5a3f387ec616
+      internalID: 871324009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 13182
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091492d4f00e5e41a469ceb75c26a7f
+      internalID: 1735680867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 13182
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb094351571bb47a9195dcd62c91b2
+      internalID: -771985481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12844
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9fe24698c625844acfbdf7e1f00ca7
+      internalID: -2078733626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 12844
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d5c8176e4fe7d4d9a921100cad0bac
+      internalID: -562583905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 12844
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db223048babe920448db063cf4bb0eeb
+      internalID: 555886201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 12844
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff6d1aff3844f0458bf649119cf89df
+      internalID: 942839426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 12844
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6dffb068c6d754fb216e4a595c63c8
+      internalID: -1791644041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12506
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7eda27066dca45ab4070647cff9a0
+      internalID: -953237251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 12506
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1159f7e839f94b9ed1767a2ad52d7
+      internalID: 2112090176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 12506
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35086fdc1f3bc5b4e8650a18ced48063
+      internalID: 256548076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 12506
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d352edc9e2a5fc4abc02663feeeaf4f
+      internalID: 1654021711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 12506
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47aed7ec7e3ebb4ba4772a4ea4428ef
+      internalID: -1031249834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12168
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91458bfb2819ce74c8a28ced0c913732
+      internalID: 1024613611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 12168
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55b69668f853a45a20c5313051b1e1
+      internalID: 1909809311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 12168
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a92cbe5b205c548bf482a803bf600a
+      internalID: 1708717810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 12168
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02f0fbe866dcce42a477e2c47909fe4
+      internalID: 2076414586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 12168
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2dae38f65a4fe4492ae1c8de9b05bf
+      internalID: 676537113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11830
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b8e939e0766fa42850d4da3d124742
+      internalID: -1744146134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 11830
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5481c72e0fccecc4c97e3e841bbbd2b4
+      internalID: -801006180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 11830
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8553f24c4c94141864c8e98461bb34
+      internalID: 1042036346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 11830
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5228b34808a0468eaba006385c30c
+      internalID: -371684368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 11830
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b024b105d63ace34badf17b17ebbd979
+      internalID: -1295684486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11492
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950927f7cc2afef48906d0aa923fce75
+      internalID: 810671072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 11492
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf41a8bdeefa64469fca5145751b57a
+      internalID: 1130375450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 11492
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6edc2bc923106c46a14ff7698373c59
+      internalID: 970330844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 11492
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6e0a0820f95234ea64aad1bdf4f220
+      internalID: 1860885865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 11492
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281ec4ff11c3de94c9657a47fc5a7054
+      internalID: 913393080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11154
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e03f4108b93e8458888787a0cb8a35
+      internalID: 1044909808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 11154
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6a3dfcc2f3b1341a5388e939b0154b
+      internalID: -127822433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 11154
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc2f93a347ac9f4c914a76fc2a9c29b
+      internalID: -454904575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 11154
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada4111fe0c2a249a8e0d114a5b3869
+      internalID: -1654262413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 11154
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db96c349a2f5c47a909b51ec9fd59f
+      internalID: -1148346732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10816
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108d06e77b21c314e833ebc72f323ad3
+      internalID: 384752830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 10816
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e146d7c5d17824287b078cbd3a9471
+      internalID: 718093714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 10816
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9784127ee65f504ea3e19a4230e70f9
+      internalID: 1169208598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 10816
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf00071332c676418555448d5919578
+      internalID: -1301733647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 10816
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56365943079c15e42981a73f4f987bb7
+      internalID: -138245577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10478
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856c09271cd90447b38f48a28ee1344
+      internalID: -1846391359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 10478
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179f1a56e1660d34e909abe72bb5b9b8
+      internalID: 122141495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 10478
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a8d227e96558d4d9039675447a06be
+      internalID: 595849892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 10478
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c80fb292edce45868e5bebc59158b
+      internalID: 2044722144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 10478
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58c89229c16584296ead285f6a4441
+      internalID: -257077705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10140
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c333bb581585d546b743c4cd91835f0
+      internalID: -1616072896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 10140
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1e1416748c8254b89c7f477fa23520
+      internalID: -216103809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 10140
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6f2b011c5d4641a087099fbbad6cb
+      internalID: -1167201061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 10140
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da40ca5d190aae4eb7c954ee372c5fd
+      internalID: -327182126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 10140
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017a9f0e1e027a4b9a4dc6da20deca1
+      internalID: 1065099101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9802
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f2941d73d34c44aa163ffce8bbce8
+      internalID: 1266233858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9802
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee339f83c35d4409a260b9a233ead3
+      internalID: -384246624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 9802
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554bd9d3771f4494080e3205280013cb
+      internalID: 282043540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 9802
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ebc203454c9b84f9124a9db2232add
+      internalID: 2023280997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 9802
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5864b82695a67c242a7872ffb72fd475
+      internalID: -1832849239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9464
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c906a70524368c45aa7bc1c662216f6
+      internalID: -2005626562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9464
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3701d759cfd9649a352db2bd5b155f
+      internalID: -1341648552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 9464
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3ad413e9658b343bf8fc4f94566b1f
+      internalID: -317411646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 9464
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb99e6944634d499f0fd8540e6d231
+      internalID: -1018777102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 9464
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b26427a0735f14badc7f82b3722f5e
+      internalID: -1048513889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9126
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea84afdbb013e4e967c10821f4f377
+      internalID: -245249896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9126
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43afb6ec21f34ef4bb74237123d03623
+      internalID: -139444365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 9126
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301a3203f35261b4e884a370aef54f0a
+      internalID: -1537830572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 9126
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92450951850ed8244867de4d6c036f90
+      internalID: -1075674161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 9126
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac21d08113c5ff4ab71d313274a7dee
+      internalID: -683171991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8788
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd51e6bcd419e849947db788f4f2bd9
+      internalID: 1092249527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 8788
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955496097ded824082ca7f92aea51a8
+      internalID: 1605441982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 8788
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7100cf913195e4b838f2a1416eef9e
+      internalID: -164648177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8788
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5515a98dec6f8e247bdd4143d41b0d0b
+      internalID: 1374192665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8788
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c453aaac425174991c1a5c97749bcf
+      internalID: 1515180895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8450
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7677b85d13b964285d66d0a6a2f95e
+      internalID: -644429056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 8450
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f978adea5b887c4b941ffa6601fb0c8
+      internalID: -1308199989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 8450
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9493996e934464e92e4762b4a7b2bc
+      internalID: -830431155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8450
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512ccf362d4e159439d23d3300a70533
+      internalID: -114685468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8450
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa445b1abd0ec3428c4f9608cca6983
+      internalID: -344106948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8112
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3a043fdb5789419b8bedb49f92105
+      internalID: -1042530249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 8112
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0b887df2c1f3f4a93e415763231988
+      internalID: 804264692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 8112
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f412f5ce2de0409e0532bc445517a
+      internalID: 754258676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 8112
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dd3593203c727409f69c0a18cd7b96
+      internalID: 1546234795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8112
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a5403a005acf4baab1b07e9480318
+      internalID: 1459232224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7774
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d952ea0ef0eb62c4b866ff90d2413079
+      internalID: 208375644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7774
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9784d85b78a98f149abfd6d060654707
+      internalID: -1235156623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7774
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ba852427717a4bb2db514097df0a0
+      internalID: -406390642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 7774
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da69b63abb37e448cc85d4421a8ec0
+      internalID: -1253007949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7774
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc87cbc2a3fe0649a0c3d330ed1be75
+      internalID: 1715997783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7436
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8eaebccaaa4ac4d955738146a8e1f8
+      internalID: 960214764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7436
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ca813b2b57e8479a5b5e71d1b3d76
+      internalID: 1580183301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7436
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7dcd62ada8cf84aa59f1f093b2ab0d
+      internalID: -998700863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 7436
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad02d859c13f646b28918e8b654497
+      internalID: 1915560298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7436
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17ac3edd9d31a47bd20a4ff4efd946
+      internalID: -1814962325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7098
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1050491b846acd479eb87b0ff74f7bb
+      internalID: -1751377575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 7098
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e55226b68fb304eb97cea4021266c7
+      internalID: 459553662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7098
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3578284cad72ed54fa925f09efc066a5
+      internalID: -1457610352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_128
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 7098
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f415e0a3f646642ba7060b0057669c
+      internalID: -1025014362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_129
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7098
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85961dd240e6ab34491db3b82f085ff8
+      internalID: 2005474314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6760
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa703c1751a7c1489812c8a8da1e513
+      internalID: -97926132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_131
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6760
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe09cafa8ab0d4e41b420f1a2678fe4f
+      internalID: -2024003644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_132
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6760
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bf24fc4c1d9204eaa12fdc45b03e51
+      internalID: 252839122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 6760
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed48653d4f4f8498647828d2f041b0
+      internalID: 1517265738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6760
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64fb99ebd40a344b5b360d89210598
+      internalID: -768645060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6422
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123b03452c7ec34b9858141597d83da
+      internalID: -756844568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6422
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6def9dcf174f23349977876b04bc07eb
+      internalID: 1620801010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6422
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b563bdd2d823194797315a3752cb244
+      internalID: 1957803209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 6422
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b0608fe008154e9482d3d83bd158f
+      internalID: -770861424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6422
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6e0f377f42a642aa35c0ddcb7f65a
+      internalID: -586143533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6084
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d441ee20fc994391e13aa0560b146
+      internalID: 618594741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6084
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48ae1b6dcead0a459532c2efc5c5e91
+      internalID: 680452236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6084
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a204d0e8938c94a83842bf70c4573c
+      internalID: 1210747645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 6084
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce5a5b7fabc41045b64686f93e6f60b
+      internalID: 1505072795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6084
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975891e3051201499cffc174a6c343d
+      internalID: -1311608835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5746
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f6ae8b641baed4fa05b1d764797e9d
+      internalID: -1577457723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5746
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae87220df460b764b87b3d99e4e8a558
+      internalID: 1435711892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_147
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5746
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d128f8f94df0243a11923ed6f618d8
+      internalID: -283999356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_148
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5746
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3434f70e2a94e3e4b8bce13f0eef4143
+      internalID: 418480610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_149
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5746
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a702b12bf91164687ab3b5f711cdf7
+      internalID: -153800123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5408
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be34578dab4d004590751aa13bf1a35
+      internalID: 1640327461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_151
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5408
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc1b19a4307a3478e99c128e2ef6cc
+      internalID: -1310067879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5408
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbfca19561140c499ade6ca002dbb7a
+      internalID: 138040738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5408
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a6c459abed06647a7418c75550f8d0
+      internalID: 47573388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_154
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5408
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03ee2cfcb106c4b81ece4f81f9ea1c
+      internalID: 1516486943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5070
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17145776dd0d279409574d6a117de2fb
+      internalID: 1318304033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_156
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5070
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4af613e0112f14bb0b799f3cfb94e1
+      internalID: 1676307249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5070
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf438437b0c4d84c80e9ad1061eeefc
+      internalID: -529830583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 5070
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba53118ba6f0b74793a6a75d3ea37d3
+      internalID: -1590258277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5070
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26723a85cf5e9df44871e3849e71e2e3
+      internalID: 494794667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4732
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a57df23b808b4284c6088f00c92a3
+      internalID: -1121626266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_161
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4732
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b653deeb043b79143b43f116634d684e
+      internalID: -646110554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_162
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4732
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f491411240102429eaa8022aef0721
+      internalID: -294884778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4732
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc33fdc5aeff7a40b60fe718365cbc0
+      internalID: -1794648722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_164
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4732
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ec8669f43e264ea4a60c459563239
+      internalID: 872014514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4394
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a5df10da718944a85a3a6b31e25ee6
+      internalID: -2086282029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_166
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4394
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3785478d992dd45afc5b6efb3192a0
+      internalID: -834934988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_167
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4394
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f124fd14c06b54fb65f75ca281e938
+      internalID: 1671744343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_168
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4394
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7dcbc7f6a4b7444b95f89cf602f504
+      internalID: 1330884007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_169
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4394
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3cda16a5a8ac843aaa0ce5ce287908
+      internalID: -1324320993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4056
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06990e1da75c0fe41894d3fd1f407301
+      internalID: 218297158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_171
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4056
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8310371ab4cb9b1478afc05d92f587ad
+      internalID: 1134450329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_172
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4056
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b9b587b7548f47852bccedf2f3a3a
+      internalID: 73836025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_173
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4056
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab577425d938505448da9687b99e4482
+      internalID: 1360597216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_174
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4056
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163677021f9c5a4785bb371906cb810
+      internalID: 1000656031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3718
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e45365a2fa396e4a8bbd917a546a96f
+      internalID: 608461838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_176
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3718
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba78291abdc9fe2428861564aa1dd81d
+      internalID: 1561020164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_177
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3718
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ecd1a2ec769c4f9e4aad5210d7851
+      internalID: 1422407151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_178
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3718
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6316731b0c32be84682c8b41030f3ac4
+      internalID: 1161573200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_179
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3718
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094ab832d1852e4098c105221eadc27
+      internalID: 968186258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3380
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49944ea8464057e4c9d0ca2bf701518a
+      internalID: -662400333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_181
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3380
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c20f9633ee93714a9060b70cb0fcaa4
+      internalID: -1509696565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_182
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3380
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eaa63939d9b1c439502f22ff5b1ebb
+      internalID: 1526401549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_183
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3380
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c06cecbf395074a862f26af3d59fa2
+      internalID: -2145712850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_184
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3380
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061118fb7dca34941935d7e9592c89be
+      internalID: 994429319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3042
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c96ee6b9dc89404295cc8f3f0e9c92b
+      internalID: 341149713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_186
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3042
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723107722528b35438ca23c718a7f0d5
+      internalID: 1853360287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_187
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3042
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f458b1f54e7c3c645a76b3db81dd62b3
+      internalID: -272328802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_188
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3042
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4fd3a53288d0a479ff6f2410d53735
+      internalID: -1544301982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_189
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3042
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f601e8d4adb0614881e8fc7ce6e08c8
+      internalID: 1799393648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2704
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b368851a8753184a92accc806a1cf4f
+      internalID: -1502835829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_191
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2704
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c07bc73f0be5794e89ea4123f9940c7
+      internalID: -1593504422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_192
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2704
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc79a8c8085b194780bae429d8f74c3
+      internalID: -1064120984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_193
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2704
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70c3c41b6b759540ac322bea2b2412e
+      internalID: 912373963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_194
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2704
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2f6206634c0847b0ffe0e63d9e116
+      internalID: -1835707322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2366
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613251bb346c9a42b38c58a02ec4d53
+      internalID: 705638121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_196
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2366
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d7cdabe541d64a9967bd6d3320446
+      internalID: -587939330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_197
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2366
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f82bba12ef1a843a0da1a0a3aba0a7
+      internalID: -122113649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_198
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2366
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ac9e95446c834b9f27f244b5795f5
+      internalID: -302947877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_199
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2366
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b24c78e5147a4c83f64f4574a9da6
+      internalID: 1272414421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647bcfe2ff2c87442a6b425440e6218e
+      internalID: -1342604649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_201
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e516596883997c34eb8af7bcd08534af
+      internalID: 2031606901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_202
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276079615eb5f304590b8dec9e19a3c5
+      internalID: 1851943447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_203
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951734f26e3a4794f83c554220d29acf
+      internalID: 1588244714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_204
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c0c64e131b694eb060b8529e35230
+      internalID: 1179364523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806713ed13278e94b821184c6fc3b0e6
+      internalID: 659026112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_206
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf30e8b701062246b2d59fc0f3317a3
+      internalID: -1699396550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_207
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e4adbce4da394aa248db3d42260d3
+      internalID: -1870864980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_208
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5af6d983a33fb44b95f713a528e47f2
+      internalID: -1605810723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_209
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d536dd7e08cfb4d8ea27e2ac9cf3f4
+      internalID: -1382707253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821dc4a2992f02a4aa279bffb1be78c0
+      internalID: -930940784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_211
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe68a3e0270372459fbdeb9741f69d7
+      internalID: 1414685303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_212
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de6fb799b51fa4fab1a719a498ae7b
+      internalID: 1032285551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_213
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a27484c985ef0e40a17df571691d782
+      internalID: 1150526884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_214
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51b6c49a391e54187357db1de3ebaf
+      internalID: -1748874944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e304dd25b3164b923ae28dcba04e6
+      internalID: -759989495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_216
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961a101aa7a61e44bebe92afa18b3bb
+      internalID: -1217623780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_217
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5332d15767de47545bdb15f63872c8b9
+      internalID: 696358741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_218
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00449ef94ca8e094d8b78bf814fe75af
+      internalID: -247087388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_219
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed53f99190cff84682dadaef0c41bdf
+      internalID: 1162436847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2331c0ba32fc9428640596b294e5aa
+      internalID: -1422210035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_221
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93bfe8edb69e49449e1864d982369b0
+      internalID: 63151206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_222
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9490a8a633684e428d28633005e4d6f
+      internalID: -916587490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_223
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4f2b765731bb4a9cfcaada87f025c
+      internalID: 318781712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_224
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97605a6df8f31648b60d38cb9f96028
+      internalID: 227439105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3330bccc35a1f44bc294d420b5757f
+      internalID: -1688065395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_226
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eeb324548243a4a9a0c510a80fe1ed
+      internalID: 1838282979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_227
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db6a99cd6740a42a0d49077ba60419
+      internalID: -148574254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_228
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412fb37cddf580141abdcc4eb9ebe5b4
+      internalID: -150260145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_229
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf9920f1f6fbf8498af4ab6bfc487ba
+      internalID: 293650684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85d4a28b8cf884c93537fcf5e44322
+      internalID: 1512544919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_231
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba437b6c87dccd4db160bcf4312a1bd
+      internalID: -1274163195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_232
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde44b99c74ce5648966fb5758285ac7
+      internalID: 1314430906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_233
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6719cbb3b9572b4da82c495d9a90f64
+      internalID: -577610674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broodje_Stap_1_Sprite_234
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f191cbe6b1f74ba5c53054ca37d29
+      internalID: 543050748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d378cac5ab990584aa47745574b0a5a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Broodje_Stap_1_Sprite_41: -562583905
+      Broodje_Stap_1_Sprite_126: 459553662
+      Broodje_Stap_1_Sprite_178: 1161573200
+      Broodje_Stap_1_Sprite_158: -1590258277
+      Broodje_Stap_1_Sprite_233: -577610674
+      Broodje_Stap_1_Sprite_127: -1457610352
+      Broodje_Stap_1_Sprite_209: -1382707253
+      Broodje_Stap_1_Sprite_90: -2005626562
+      Broodje_Stap_1_Sprite_150: 1640327461
+      Broodje_Stap_1_Sprite_224: 227439105
+      Broodje_Stap_1_Sprite_160: -1121626266
+      Broodje_Stap_1_Sprite_207: -1870864980
+      Broodje_Stap_1_Sprite_206: -1699396550
+      Broodje_Stap_1_Sprite_45: -953237251
+      Broodje_Stap_1_Sprite_195: 705638121
+      Broodje_Stap_1_Sprite_64: 913393080
+      Broodje_Stap_1_Sprite_184: 994429319
+      Broodje_Stap_1_Sprite_31: -771309665
+      Broodje_Stap_1_Sprite_6: 1165591034
+      Broodje_Stap_1_Sprite_8: 1423895624
+      Broodje_Stap_1_Sprite_77: 595849892
+      Broodje_Stap_1_Sprite_116: -1235156623
+      Broodje_Stap_1_Sprite_230: 1512544919
+      Broodje_Stap_1_Sprite_182: 1526401549
+      Broodje_Stap_1_Sprite_114: 1459232224
+      Broodje_Stap_1_Sprite_86: -384246624
+      Broodje_Stap_1_Sprite_13: 1935691545
+      Broodje_Stap_1_Sprite_43: 942839426
+      Broodje_Stap_1_Sprite_9: -876918689
+      Broodje_Stap_1_Sprite_75: -1846391359
+      Broodje_Stap_1_Sprite_37: 871324009
+      Broodje_Stap_1_Sprite_7: 529603075
+      Broodje_Stap_1_Sprite_11: -349580183
+      Broodje_Stap_1_Sprite_154: 1516486943
+      Broodje_Stap_1_Sprite_152: 138040738
+      Broodje_Stap_1_Sprite_165: -2086282029
+      Broodje_Stap_1_Sprite_118: -1253007949
+      Broodje_Stap_1_Sprite_156: 1676307249
+      Broodje_Stap_1_Sprite_117: -406390642
+      Broodje_Stap_1_Sprite_201: 2031606901
+      Broodje_Stap_1_Sprite_226: 1838282979
+      Broodje_Stap_1_Sprite_57: 1042036346
+      Broodje_Stap_1_Sprite_166: -834934988
+      Broodje_Stap_1_Sprite_135: -756844568
+      Broodje_Stap_1_Sprite_187: -272328802
+      Broodje_Stap_1_Sprite_202: 1851943447
+      Broodje_Stap_1_Sprite_122: -998700863
+      Broodje_Stap_1_Sprite_189: 1799393648
+      Broodje_Stap_1_Sprite_60: 810671072
+      Broodje_Stap_1_Sprite_71: 718093714
+      Broodje_Stap_1_Sprite_139: -586143533
+      Broodje_Stap_1_Sprite_34: -2129472007
+      Broodje_Stap_1_Sprite_58: -371684368
+      Broodje_Stap_1_Sprite_17: -1647791491
+      Broodje_Stap_1_Sprite_186: 1853360287
+      Broodje_Stap_1_Sprite_14: -1884452660
+      Broodje_Stap_1_Sprite_191: -1593504422
+      Broodje_Stap_1_Sprite_83: -327182126
+      Broodje_Stap_1_Sprite_36: -2142251389
+      Broodje_Stap_1_Sprite_151: -1310067879
+      Broodje_Stap_1_Sprite_0: 1553276423
+      Broodje_Stap_1_Sprite_61: 1130375450
+      Broodje_Stap_1_Sprite_23: 600520429
+      Broodje_Stap_1_Sprite_2: 954045946
+      Broodje_Stap_1_Sprite_100: 1092249527
+      Broodje_Stap_1_Sprite_159: 494794667
+      Broodje_Stap_1_Sprite_125: -1751377575
+      Broodje_Stap_1_Sprite_176: 1561020164
+      Broodje_Stap_1_Sprite_56: -801006180
+      Broodje_Stap_1_Sprite_27: -623561958
+      Broodje_Stap_1_Sprite_96: -139444365
+      Broodje_Stap_1_Sprite_234: 543050748
+      Broodje_Stap_1_Sprite_48: 1654021711
+      Broodje_Stap_1_Sprite_111: 804264692
+      Broodje_Stap_1_Sprite_197: -122113649
+      Broodje_Stap_1_Sprite_222: -916587490
+      Broodje_Stap_1_Sprite_78: 2044722144
+      Broodje_Stap_1_Sprite_164: 872014514
+      Broodje_Stap_1_Sprite_231: -1274163195
+      Broodje_Stap_1_Sprite_199: 1272414421
+      Broodje_Stap_1_Sprite_171: 1134450329
+      Broodje_Stap_1_Sprite_227: -148574254
+      Broodje_Stap_1_Sprite_72: 1169208598
+      Broodje_Stap_1_Sprite_12: -1427302444
+      Broodje_Stap_1_Sprite_50: 1024613611
+      Broodje_Stap_1_Sprite_54: 676537113
+      Broodje_Stap_1_Sprite_210: -930940784
+      Broodje_Stap_1_Sprite_49: -1031249834
+      Broodje_Stap_1_Sprite_133: 1517265738
+      Broodje_Stap_1_Sprite_39: -771985481
+      Broodje_Stap_1_Sprite_113: 1546234795
+      Broodje_Stap_1_Sprite_1: 1158106570
+      Broodje_Stap_1_Sprite_20: 1590851016
+      Broodje_Stap_1_Sprite_66: -127822433
+      Broodje_Stap_1_Sprite_149: -153800123
+      Broodje_Stap_1_Sprite_16: -1507163822
+      Broodje_Stap_1_Sprite_110: -1042530249
+      Broodje_Stap_1_Sprite_204: 1179364523
+      Broodje_Stap_1_Sprite_153: 47573388
+      Broodje_Stap_1_Sprite_106: -1308199989
+      Broodje_Stap_1_Sprite_225: -1688065395
+      Broodje_Stap_1_Sprite_98: -1075674161
+      Broodje_Stap_1_Sprite_101: 1605441982
+      Broodje_Stap_1_Sprite_136: 1620801010
+      Broodje_Stap_1_Sprite_214: -1748874944
+      Broodje_Stap_1_Sprite_91: -1341648552
+      Broodje_Stap_1_Sprite_15: -1214626647
+      Broodje_Stap_1_Sprite_73: -1301733647
+      Broodje_Stap_1_Sprite_81: -216103809
+      Broodje_Stap_1_Sprite_84: 1065099101
+      Broodje_Stap_1_Sprite_115: 208375644
+      Broodje_Stap_1_Sprite_128: -1025014362
+      Broodje_Stap_1_Sprite_216: -1217623780
+      Broodje_Stap_1_Sprite_142: 1210747645
+      Broodje_Stap_1_Sprite_47: 256548076
+      Broodje_Stap_1_Sprite_220: -1422210035
+      Broodje_Stap_1_Sprite_130: -97926132
+      Broodje_Stap_1_Sprite_62: 970330844
+      Broodje_Stap_1_Sprite_95: -245249896
+      Broodje_Stap_1_Sprite_102: -164648177
+      Broodje_Stap_1_Sprite_219: 1162436847
+      Broodje_Stap_1_Sprite_129: 2005474314
+      Broodje_Stap_1_Sprite_143: 1505072795
+      Broodje_Stap_1_Sprite_92: -317411646
+      Broodje_Stap_1_Sprite_173: 1360597216
+      Broodje_Stap_1_Sprite_180: -662400333
+      Broodje_Stap_1_Sprite_87: 282043540
+      Broodje_Stap_1_Sprite_3: -282980172
+      Broodje_Stap_1_Sprite_55: -1744146134
+      Broodje_Stap_1_Sprite_103: 1374192665
+      Broodje_Stap_1_Sprite_179: 968186258
+      Broodje_Stap_1_Sprite_221: 63151206
+      Broodje_Stap_1_Sprite_181: -1509696565
+      Broodje_Stap_1_Sprite_146: 1435711892
+      Broodje_Stap_1_Sprite_217: 696358741
+      Broodje_Stap_1_Sprite_53: 2076414586
+      Broodje_Stap_1_Sprite_137: 1957803209
+      Broodje_Stap_1_Sprite_200: -1342604649
+      Broodje_Stap_1_Sprite_147: -283999356
+      Broodje_Stap_1_Sprite_63: 1860885865
+      Broodje_Stap_1_Sprite_185: 341149713
+      Broodje_Stap_1_Sprite_52: 1708717810
+      Broodje_Stap_1_Sprite_28: -1312095557
+      Broodje_Stap_1_Sprite_5: 763190884
+      Broodje_Stap_1_Sprite_120: 960214764
+      Broodje_Stap_1_Sprite_168: 1330884007
+      Broodje_Stap_1_Sprite_194: -1835707322
+      Broodje_Stap_1_Sprite_132: 252839122
+      Broodje_Stap_1_Sprite_21: -1609192202
+      Broodje_Stap_1_Sprite_196: -587939330
+      Broodje_Stap_1_Sprite_35: 712330155
+      Broodje_Stap_1_Sprite_70: 384752830
+      Broodje_Stap_1_Sprite_79: -257077705
+      Broodje_Stap_1_Sprite_223: 318781712
+      Broodje_Stap_1_Sprite_167: 1671744343
+      Broodje_Stap_1_Sprite_97: -1537830572
+      Broodje_Stap_1_Sprite_172: 73836025
+      Broodje_Stap_1_Sprite_119: 1715997783
+      Broodje_Stap_1_Sprite_131: -2024003644
+      Broodje_Stap_1_Sprite_74: -138245577
+      Broodje_Stap_1_Sprite_25: 913938916
+      Broodje_Stap_1_Sprite_88: 2023280997
+      Broodje_Stap_1_Sprite_104: 1515180895
+      Broodje_Stap_1_Sprite_169: -1324320993
+      Broodje_Stap_1_Sprite_107: -830431155
+      Broodje_Stap_1_Sprite_212: 1032285551
+      Broodje_Stap_1_Sprite_203: 1588244714
+      Broodje_Stap_1_Sprite_205: 659026112
+      Broodje_Stap_1_Sprite_19: 1876971236
+      Broodje_Stap_1_Sprite_163: -1794648722
+      Broodje_Stap_1_Sprite_40: -2078733626
+      Broodje_Stap_1_Sprite_65: 1044909808
+      Broodje_Stap_1_Sprite_24: -642789164
+      Broodje_Stap_1_Sprite_157: -529830583
+      Broodje_Stap_1_Sprite_134: -768645060
+      Broodje_Stap_1_Sprite_208: -1605810723
+      Broodje_Stap_1_Sprite_109: -344106948
+      Broodje_Stap_1_Sprite_85: 1266233858
+      Broodje_Stap_1_Sprite_51: 1909809311
+      Broodje_Stap_1_Sprite_89: -1832849239
+      Broodje_Stap_1_Sprite_228: -150260145
+      Broodje_Stap_1_Sprite_82: -1167201061
+      Broodje_Stap_1_Sprite_175: 608461838
+      Broodje_Stap_1_Sprite_33: -216283074
+      Broodje_Stap_1_Sprite_105: -644429056
+      Broodje_Stap_1_Sprite_80: -1616072896
+      Broodje_Stap_1_Sprite_215: -759989495
+      Broodje_Stap_1_Sprite_170: 218297158
+      Broodje_Stap_1_Sprite_42: 555886201
+      Broodje_Stap_1_Sprite_183: -2145712850
+      Broodje_Stap_1_Sprite_10: 1465223197
+      Broodje_Stap_1_Sprite_38: 1735680867
+      Broodje_Stap_1_Sprite_177: 1422407151
+      Broodje_Stap_1_Sprite_190: -1502835829
+      Broodje_Stap_1_Sprite_174: 1000656031
+      Broodje_Stap_1_Sprite_112: 754258676
+      Broodje_Stap_1_Sprite_140: 618594741
+      Broodje_Stap_1_Sprite_162: -294884778
+      Broodje_Stap_1_Sprite_211: 1414685303
+      Broodje_Stap_1_Sprite_141: 680452236
+      Broodje_Stap_1_Sprite_108: -114685468
+      Broodje_Stap_1_Sprite_93: -1018777102
+      Broodje_Stap_1_Sprite_161: -646110554
+      Broodje_Stap_1_Sprite_145: -1577457723
+      Broodje_Stap_1_Sprite_76: 122141495
+      Broodje_Stap_1_Sprite_69: -1148346732
+      Broodje_Stap_1_Sprite_144: -1311608835
+      Broodje_Stap_1_Sprite_123: 1915560298
+      Broodje_Stap_1_Sprite_198: -302947877
+      Broodje_Stap_1_Sprite_30: 2064365735
+      Broodje_Stap_1_Sprite_99: -683171991
+      Broodje_Stap_1_Sprite_188: -1544301982
+      Broodje_Stap_1_Sprite_229: 293650684
+      Broodje_Stap_1_Sprite_67: -454904575
+      Broodje_Stap_1_Sprite_218: -247087388
+      Broodje_Stap_1_Sprite_138: -770861424
+      Broodje_Stap_1_Sprite_29: -186354550
+      Broodje_Stap_1_Sprite_59: -1295684486
+      Broodje_Stap_1_Sprite_124: -1814962325
+      Broodje_Stap_1_Sprite_68: -1654262413
+      Broodje_Stap_1_Sprite_193: 912373963
+      Broodje_Stap_1_Sprite_26: 1771374362
+      Broodje_Stap_1_Sprite_46: 2112090176
+      Broodje_Stap_1_Sprite_148: 418480610
+      Broodje_Stap_1_Sprite_44: -1791644041
+      Broodje_Stap_1_Sprite_121: 1580183301
+      Broodje_Stap_1_Sprite_232: 1314430906
+      Broodje_Stap_1_Sprite_213: 1150526884
+      Broodje_Stap_1_Sprite_192: -1064120984
+      Broodje_Stap_1_Sprite_32: 881769607
+      Broodje_Stap_1_Sprite_4: -235325377
+      Broodje_Stap_1_Sprite_22: 1292235890
+      Broodje_Stap_1_Sprite_155: 1318304033
+      Broodje_Stap_1_Sprite_18: 662265598
+      Broodje_Stap_1_Sprite_94: -1048513889
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
