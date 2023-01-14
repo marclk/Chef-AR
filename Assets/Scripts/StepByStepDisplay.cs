@@ -107,18 +107,13 @@ public class StepByStepDisplay : MonoBehaviour
 
             var stepTitle           = stepContent.transform.GetChild(0);
             var stepVideo           = stepContent.transform.GetChild(1);
-            var stepDescription     = stepContent.transform.GetChild(3);
-
-            
+            var stepDescription     = stepContent.transform.GetChild(3);           
 
             stepTitle.GetComponent<TMP_Text>().text         = "Step " + (scrollSnap.NumberOfPanels+1); // veranderen naar 'Step X'
             stepVideo.GetComponent<Image>().sprite          = step.stepVideo;
             stepDescription.GetComponent<TMP_Text>().text   = step.description;
             
-            AnimationClip stepAnimClip = step.animationClip;
-
-            
-            //step.animationClip
+            stepVideo.GetComponent<Animator>().runtimeAnimatorController = step.animController;
 
             scrollSnap.Add(stepContent, index);
 

@@ -21,4 +21,4 @@ MonoBehaviour:
   amountPerIngredient:
   - 2 slices
   - 2 slices
-  animationController: {fileID: 9100000, guid: 5148d574a1a6e4443b10cca27904c438, type: 2}
+  animController: {fileID: 9100000, guid: 5148d574a1a6e4443b10cca27904c438, type: 2}
