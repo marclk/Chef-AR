@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: Cheese and Ham
   description: Place 2 slices of Cheese & 2 slices of Ham over the Salad
-  stepVideo: {fileID: 0}
+  stepVideo: {fileID: 2800000, guid: 750f450cfe1b9d7478304d626b36ca36, type: 3}
   ingredients:
   - {fileID: 11400000, guid: 2598353ceb72ef542ac5733bf742ea75, type: 2}
   - {fileID: 11400000, guid: 447b065ee74c5f14f83b8c3051899835, type: 2}
