@@ -15,12 +15,11 @@ MonoBehaviour:
   title: Cut pistolet Spread Mayonaise
   description: Cut the pistolet horizontally in the middle and spread with mayonaise
     inside.
-  stepVideo: {fileID: 2800000, guid: 2ff085ec02063ac4699a18cf4cb733fc, type: 3}
+  stepVideo: {fileID: -19277405, guid: 2ff085ec02063ac4699a18cf4cb733fc, type: 3}
   ingredients:
   - {fileID: 11400000, guid: e410ab69c383a314388720658c09ba8c, type: 2}
   - {fileID: 11400000, guid: d16086682a6153a48a80f75cb0963c2b, type: 2}
   amountPerIngredient:
   - 1 pistolet
   - 2 spoons
-  animationClip: {fileID: 7400000, guid: 951faad2ec2181643b7529a643b303a6, type: 2}
   animationController: {fileID: 9100000, guid: 7b1393d73d3e9f44c8b3ea7fbbbd9d2d, type: 2}

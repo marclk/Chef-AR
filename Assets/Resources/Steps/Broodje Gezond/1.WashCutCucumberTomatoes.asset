@@ -15,12 +15,11 @@ MonoBehaviour:
   title: 'Wash & Cut: Cucumber & Tomatoes'
   description: Wash the cucumber and tomatoes and cut them in slices of about 0.5
     cm
-  stepVideo: {fileID: 2800000, guid: 99cd8beb81816844fa8c0fcef11dee73, type: 3}
+  stepVideo: {fileID: 1553276423, guid: 99cd8beb81816844fa8c0fcef11dee73, type: 3}
   ingredients:
   - {fileID: 11400000, guid: 80f663bb82dced646a603a1dbd6dd472, type: 2}
   - {fileID: 11400000, guid: 00564b84d2f0bc545b261b268c8b072e, type: 2}
   amountPerIngredient:
   - 4 slices
   - 4 slices
-  animationClip: {fileID: 7400000, guid: d285da115dbb0174ebec3851c4d21184, type: 2}
   animationController: {fileID: 9100000, guid: 9006566db2eac5545a1bf7a4d4b52205, type: 2}

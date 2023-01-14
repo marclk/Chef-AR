@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using UnityEngine.Animations;
 using TMPro;
 using System;
 using DanielLochner.Assets.SimpleScrollSnap;
@@ -108,12 +109,16 @@ public class StepByStepDisplay : MonoBehaviour
             var stepVideo           = stepContent.transform.GetChild(1);
             var stepDescription     = stepContent.transform.GetChild(3);
 
-            stepTitle.GetComponent<TMP_Text>().text         = "Step " + (scrollSnap.NumberOfPanels+1); // veranderen naar 'Step X'
-            stepVideo.GetComponent<RawImage>().texture      = step.stepVideo;
-            stepDescription.GetComponent<TMP_Text>().text   = step.description;
+            
 
-            // stepVideo.GetComponent<Animation>().AddClip(step.animationClip, "videoAnimation");
-            stepVideo.GetComponent<Animator>().runtimeAnimatorController = step.animationController;
+            stepTitle.GetComponent<TMP_Text>().text         = "Step " + (scrollSnap.NumberOfPanels+1); // veranderen naar 'Step X'
+            stepVideo.GetComponent<Image>().sprite          = step.stepVideo;
+            stepDescription.GetComponent<TMP_Text>().text   = step.description;
+            
+            AnimationClip stepAnimClip = step.animationClip;
+
+            
+            //step.animationClip
 
             scrollSnap.Add(stepContent, index);
 

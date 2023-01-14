@@ -14,8 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: Bon Appetit
   description: "Bon App\xE8tit!"
-  stepVideo: {fileID: 2800000, guid: 6b8dc24f40f15d8478e794dffcc5772a, type: 3}
+  stepVideo: {fileID: -1097743509, guid: 6b8dc24f40f15d8478e794dffcc5772a, type: 3}
   ingredients: []
   amountPerIngredient: []
-  animationClip: {fileID: 7400000, guid: 4cae5394fd8c60040aca476928d0dad3, type: 2}
   animationController: {fileID: 9100000, guid: 77389f8fe34de544ca381781476af09e, type: 2}

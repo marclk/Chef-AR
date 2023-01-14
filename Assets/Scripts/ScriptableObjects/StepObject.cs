@@ -9,14 +9,12 @@ public class StepObject : ScriptableObject {
 
     public string description;
 
-    public Texture stepVideo;
+    public Sprite stepVideo;
 
     public IngredientObject[] ingredients; 
 
     public string[] amountPerIngredient;
 
     public AnimationClip animationClip;
-
-    public AnimatorController animationController;
 
 }
