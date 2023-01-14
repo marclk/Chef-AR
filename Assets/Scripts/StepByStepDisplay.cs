@@ -112,11 +112,10 @@ public class StepByStepDisplay : MonoBehaviour
             stepVideo.GetComponent<RawImage>().texture      = step.stepVideo;
             stepDescription.GetComponent<TMP_Text>().text   = step.description;
 
-            scrollSnap.Add(stepContent, index);
+            // stepVideo.GetComponent<Animation>().AddClip(step.animationClip, "videoAnimation");
+            stepVideo.GetComponent<Animator>().runtimeAnimatorController = step.animationController;
 
-            stepVideo.GetComponent<Animation>().AddClip(step.animationClip, "videoAnimation");
-            Debug.Log("animation: " + step.animationClip);
-            Debug.Log("step: " + step);
+            scrollSnap.Add(stepContent, index);
 
             for(int i = 0; i < step.ingredients.Length; i++){
 

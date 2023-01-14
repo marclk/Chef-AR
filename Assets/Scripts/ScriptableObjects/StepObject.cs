@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEditor.Animations;
 
 [CreateAssetMenu(fileName = "StepObject", menuName = "Chef AR/StepObject", order = 0)]
 public class StepObject : ScriptableObject {
@@ -15,5 +16,7 @@ public class StepObject : ScriptableObject {
     public string[] amountPerIngredient;
 
     public AnimationClip animationClip;
+
+    public AnimatorController animationController;
 
 }

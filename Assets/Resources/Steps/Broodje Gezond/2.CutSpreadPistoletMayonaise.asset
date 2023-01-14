@@ -23,3 +23,4 @@ MonoBehaviour:
   - 1 pistolet
   - 2 spoons
   animationClip: {fileID: 7400000, guid: 951faad2ec2181643b7529a643b303a6, type: 2}
+  animationController: {fileID: 9100000, guid: 7b1393d73d3e9f44c8b3ea7fbbbd9d2d, type: 2}

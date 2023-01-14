@@ -18,3 +18,4 @@ MonoBehaviour:
   ingredients: []
   amountPerIngredient: []
   animationClip: {fileID: 7400000, guid: 4cae5394fd8c60040aca476928d0dad3, type: 2}
+  animationController: {fileID: 9100000, guid: 77389f8fe34de544ca381781476af09e, type: 2}

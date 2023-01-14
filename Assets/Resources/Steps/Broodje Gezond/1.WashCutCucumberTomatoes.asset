@@ -23,3 +23,4 @@ MonoBehaviour:
   - 4 slices
   - 4 slices
   animationClip: {fileID: 7400000, guid: d285da115dbb0174ebec3851c4d21184, type: 2}
+  animationController: {fileID: 9100000, guid: 9006566db2eac5545a1bf7a4d4b52205, type: 2}

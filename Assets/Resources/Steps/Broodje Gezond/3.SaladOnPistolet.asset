@@ -20,3 +20,4 @@ MonoBehaviour:
   amountPerIngredient:
   - 2 leaves
   animationClip: {fileID: 7400000, guid: d6a0740df43d60d4eb9f0f4c3366029a, type: 2}
+  animationController: {fileID: 9100000, guid: adb629e219b74d94fa9780f19f1dfb4a, type: 2}
