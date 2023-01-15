@@ -80,8 +80,10 @@ public class DetailDisplay : MonoBehaviour
 				for(int x = 0; x < stepObj.ingredients.Length; x++){
 					// iterate through the steps, and instantiate them in stepsContainer
 					GameObject ingredient = Instantiate(ingredientPrefab, ingredientsContainer);
-					var ingredientText = ingredient.transform.GetChild(0);
+					var ingredientIcon = ingredient.transform.GetChild(0);
+					var ingredientText = ingredient.transform.GetChild(1);
 					
+					ingredientIcon.GetComponent<RawImage>().texture = stepObj.ingredients[x].icon;
 					ingredientText.GetComponent<TMP_Text>().text = stepObj.ingredients[x].name;
 
 				}		
