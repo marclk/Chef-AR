@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5661cb82d6d6a634b8a36c08f6ec1f58, type: 3}
   m_Name: Broodje Kaas
   m_EditorClassIdentifier: 
-  name: Broodje Gezond met Kaas
-  description: 'Een heerlijk broodje gezond met Kaas, ham, sla & mayonaise '
+  name: Healthy Sandwich
+  description: A Healthy sandwich with Cheese, Ham, Lettuce, Tomato, Cucumber & Mayonaise
   coverImage: {fileID: 21300000, guid: b26e6ff10fc8aec46881fe09f28d4478, type: 3}
   prepTime: 5
   cookTime: 2

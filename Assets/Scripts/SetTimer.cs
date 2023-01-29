@@ -45,8 +45,8 @@ namespace DanielLochner.Assets.SimpleScrollSnap
         {
             TenMinutes = TenMinutesScript.SelectedPanel;
             Minutes = MinutesScript.SelectedPanel;
-            TenSeconds = TenSecondsScript.SelectedPanel;
-            Seconds = SecondsScript.SelectedPanel;
+            // TenSeconds = TenSecondsScript.SelectedPanel;
+            // Seconds = SecondsScript.SelectedPanel;
         }
 
         public void CreateTimer()
@@ -60,7 +60,8 @@ namespace DanielLochner.Assets.SimpleScrollSnap
 
         private float CalculateTimeInSeconds()
         {
-            Time = (TenMinutes * 600) + (Minutes * 60) + (TenSeconds * 10) + Seconds;
+            // Time = (TenMinutes * 600) + (Minutes * 60) + (TenSeconds * 10) + Seconds;
+            Time = (TenMinutes * 600) + (Minutes * 60);
             return Time;
         }
     }
